@@ -63,6 +63,7 @@ public class Program {
 		sc.close();
 		
 		System.out.println("Fim!");
+		System.out.println("Obrigado pela preferência!");
 	}
 
 }
