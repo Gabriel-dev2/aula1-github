@@ -5,6 +5,7 @@ public class CurrencyConverter {
 	private double dValue;
 	private double dollarCotation;
 
+	//utilitário para a conversão do dollar para real
 	public CurrencyConverter() {
 	}
 	
